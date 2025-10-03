@@ -23,8 +23,35 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 * [ak](files/ak.md)
 
 * [dbb](files/dbb.md)
+  
+* [ddl](files/ddl.md)
 
-* [mgo](files/mgo.md)
+* [rmr](files/rmr.md)
 
 * [mrc](files/mrc.md)
 
+* [dvg](files/dvg.md)
+
+* [mgo](files/mgo.md)
+
+* [jbm](files/jbm.md)
+
+* [jjg](files/jjg.md)
+
+* [jmod](files/jmod.md)
+
+* [sjs](files/sjs.md)
+
+* [adlvc](files/adlvc.md)
+
+* [arg](files/arg.md)
+
+* [epm](files/epm.md)
+
+* [JMSA](/files/jmsa.md)
+
+* [srg](files/srg.md)
+
+* [pop](files/pop.md) 
+
+* [jfj](files/jfj.md)
